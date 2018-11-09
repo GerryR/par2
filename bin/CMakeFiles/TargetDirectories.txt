@@ -1,3 +1,0 @@
-/home/gerry/RandomWalk/code/bin/CMakeFiles/rebuild_cache.dir
-/home/gerry/RandomWalk/code/bin/CMakeFiles/edit_cache.dir
-/home/gerry/RandomWalk/code/bin/CMakeFiles/par2.dir
