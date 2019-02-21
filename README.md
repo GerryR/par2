@@ -45,7 +45,7 @@ The following softwares and libraries must be installed:
 
 ## Citations
 
-Rizzo, C. B., Nakano, A., and de Barros, F. P. J. "PAR²: Parallel Random Walk Particle Tracking Method for Solute Transport in Porous Media" Computer Physics Communications (under review)
+Rizzo, C. B., Nakano, A., and de Barros, F. P. J. [PAR²: Parallel Random Walk Particle Tracking Method for Solute Transport in Porous Media](https://doi.org/10.1016/j.cpc.2019.01.013) Computer Physics Communications
 
 ## Directory Structure
 ```
